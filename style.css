@@ -10,7 +10,7 @@ body {
 }
 
 .left-content {
-  background: url('./left-image.jpg') no-repeat;
+  background: url('./images/left-image.jpg') no-repeat;
   background-size: cover;
   width: 40%;
 }
