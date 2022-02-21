@@ -10,10 +10,29 @@ body {
 }
 
 .left-content {
-  background: red;
+  background: url('./girl.jpg') no-repeat;
+  background-size: cover;
   width: 40%;
 }
+
 .right-content {
   background: blue;
   width: 60%;
+}
+
+.banner {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 10%;
+  display: flex;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 55px;
+  position: relative;
+  top: 10%;
+}
+
+img.odin-logo {
+  height: 70%;
+  margin-right: 10px;
 }
