@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.parent {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.left-content {
+  background: red;
+  width: 40%;
+}
+.right-content {
+  background: blue;
+  width: 60%;
+}
